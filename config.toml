@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rivaldo Rizqi"
+
+theme = "m10c"
+
+[params]
+    author = "Rivaldo Rizqi"
+    description = "sudut pandang dari yang tertindas"
+
+    [[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/rivaldo1818"
